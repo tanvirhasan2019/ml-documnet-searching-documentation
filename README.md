@@ -4,6 +4,14 @@ A powerful **File Management and Visualization System** that allows users to reg
 
 ---
 
+## 🖼️ **System Overview**
+
+![System Overview](https://github.com/tanvirhasan2019/ml-documnet-searching-documentation/blob/main/system-design.png)
+
+*Figure: A high-level architecture of the File Management and Visualization System.*
+
+---
+
 ## 🛠️ **Key Components**
 
 ### 1. **UI Layer (Frontend)**
